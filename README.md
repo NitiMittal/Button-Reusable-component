@@ -10,7 +10,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 ### - Links
 
 - Solution URL: https://github.com/NitiMittal/Button-Reusable-component
-- Live Site URL: https://home-news-frontend.netlify.app/
+- Live Site URL: https://button-reusbale-component.netlify.app/
 
 ## My process
 
